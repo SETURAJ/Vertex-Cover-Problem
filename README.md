@@ -1,6 +1,6 @@
 # Vertex-Cover-Problem
 
-This repository demonstrates the ECE650 Vertex Cover Problem project. 🐱 
+This repository demonstrates the Vertex Cover Problem project. 🐱 
 
 ## Overview
 
